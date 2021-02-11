@@ -1,1 +1,1 @@
-![](https://github.com/meslzy/meslzy/blob/main/image.gif?raw=true)
+![](https://github.com/meslzy/meslzy/blob/main/new-image.gif?raw=true)
