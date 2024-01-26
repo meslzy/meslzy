@@ -7,8 +7,8 @@
 <h3 align="left">Chess Stats</h3>
 
 <p align="left">
-  <img alt="bullet" src="https://img.shields.io/badge/🚀 bullet-2050-151515?style=for-the-badge&labelColor=151515"/>
-  <img alt="blitz" src="https://img.shields.io/badge/⚡ blitz-2038-151515?style=for-the-badge&labelColor=151515"/>
+  <img alt="bullet" src="https://img.shields.io/badge/🚀 bullet-2177-151515?style=for-the-badge&labelColor=151515"/>
+  <img alt="blitz" src="https://img.shields.io/badge/⚡ blitz-2129-151515?style=for-the-badge&labelColor=151515"/>
   <img alt="rapid" src="https://img.shields.io/badge/⏳ rapid-2082-151515?style=for-the-badge&labelColor=151515"/>
 </p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-<h4 align="left">Last readme update: 1&#x2F;24&#x2F;2024, 8:15:17 PM</h4>
+<h4 align="left">Last readme update: 1&#x2F;25&#x2F;2024, 8:09:46 PM</h4>
 
 <p align="left">
   <img alt="Stars" src="https://img.shields.io/github/stars/meslzy/meslzy?style=for-the-badge&labelColor=151515&color=151515"/>
