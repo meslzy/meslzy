@@ -8,7 +8,7 @@
 
 <p align="left">
   <img alt="bullet" src="https://img.shields.io/badge/🚀 bullet-2293-151515?style=for-the-badge&labelColor=151515"/>
-  <img alt="blitz" src="https://img.shields.io/badge/⚡ blitz-2247-151515?style=for-the-badge&labelColor=151515"/>
+  <img alt="blitz" src="https://img.shields.io/badge/⚡ blitz-1993-151515?style=for-the-badge&labelColor=151515"/>
   <img alt="rapid" src="https://img.shields.io/badge/⏳ rapid-2063-151515?style=for-the-badge&labelColor=151515"/>
 </p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-<h4 align="left">Last readme update: 8&#x2F;19&#x2F;2025, 8:27:56 PM</h4>
+<h4 align="left">Last readme update: 8&#x2F;20&#x2F;2025, 8:27:31 PM</h4>
 
 <p align="left">
   <img alt="Stars" src="https://img.shields.io/github/stars/meslzy/meslzy?style=for-the-badge&labelColor=151515&color=151515"/>
